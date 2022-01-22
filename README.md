@@ -1,4 +1,4 @@
-# integrations
+# Integrations
 Relogs integrations:
 - [Zappier](zappier/README.md)
 
