@@ -1,7 +1,7 @@
 # integrations
 Relogs integrations docs
 
-## Onboarding to Relogs.io
+## Onboarding
 To onboard to Relogs.io follow this steps: 
 * Get into https://app.relogs.io  
 * Sign in with your Google account
@@ -9,9 +9,9 @@ To onboard to Relogs.io follow this steps:
 ![alt text](images/Registration.jpg)
 * Wait while your workspace is being created   
 ![alt text](images/FirstLoginWorkspace.jpg)   
-* **And that's it!**
+* **That's it!**
 
-## Getting your account information s for integrations:
+## Account Information:
 Most integrations will require webhook url or ```WorkspaceId``` + ```ApplicationKey```
 * To get your Webhook url:
   1. Go to ```Ingestion``` tab
