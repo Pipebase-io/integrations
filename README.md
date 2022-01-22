@@ -1,5 +1,7 @@
 # integrations
-Relogs integrations docs
+Relogs integrations:
+- [Zappier](zappier/README.md)
+
 
 ## Onboarding
 To onboard to Relogs.io follow this steps: 
