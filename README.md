@@ -1,2 +1,2 @@
 # integrations
-Relogs integration docs
+Relogs integrations docs
